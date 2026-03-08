@@ -11,25 +11,20 @@ My work spans backend services, web applications, and data-driven systems for an
 
 ## Featured Projects
 
-### Biblium
-Library management REST API with authentication, role-based access control, and database migration management.
-https://github.com/vdrenkov/biblium
-
-### CineLedger
+### [CineLedger](https://github.com/vdrenkov/cineledger)
 API-first cinema management system providing catalog, scheduling, ticketing, ordering, reviews, and reporting capabilities.
-https://github.com/vdrenkov/cineledger
 
-### Fast React Pizza
+### [Biblium](https://github.com/vdrenkov/biblium)
+Library management REST API with authentication, role-based access control, and database migration management.
+
+### [Fast React Pizza](https://github.com/vdrenkov/fast-react-pizza)
 Single-page food ordering application demonstrating state management and routing in modern React.
-https://github.com/vdrenkov/fast-react-pizza
 
-### WorldWise
+### [WorldWise](https://github.com/vdrenkov/world-wise)
 Interactive travel tracking application that records visited locations on a map.
-https://github.com/vdrenkov/world-wise
 
-### Moviedux
+### [Moviedux](https://github.com/vdrenkov/moviedux)
 Movie discovery and tracking application with search, filtering, and watchlist functionality.
-https://github.com/vdrenkov/moviedux
 
 ---
 
