@@ -23,9 +23,6 @@ Single-page food ordering application demonstrating state management and routing
 ### [WorldWise](https://github.com/vdrenkov/world-wise)
 Interactive travel tracking application that records visited locations on a map.
 
-### [Moviedux](https://github.com/vdrenkov/moviedux)
-Movie discovery and tracking application with search, filtering, and watchlist functionality.
-
 ---
 
 ## Research Work
