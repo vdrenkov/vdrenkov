@@ -5,7 +5,7 @@ Full-Stack Software Engineer | Java, Spring Boot & React | Blockchain Researcher
 Software engineer focused on building reliable web applications and scalable systems.  
 Currently working as a full-stack developer while pursuing a PhD in blockchain technologies and cryptocurrency market forecasting at the Technical University of Sofia.
 
-My work spans backend services, web applications, and data-driven systems for analyzing and experimenting with complex domains such as financial markets and distributed technologies.
+Work spans across backend services, web applications, and data-driven systems for analyzing and experimenting with complex domains such as financial markets and distributed technologies.
 
 ---
 
@@ -29,7 +29,7 @@ Interactive travel tracking application that records visited locations on a map.
 
 PhD Research Topic:
 
-**Forecasting Cryptocurrency Value Using Advanced Algorithms**
+**Predicting the Value of Cryptocurrencies through the Application of Advanced Algorithms**
 
 Research areas include:
 
