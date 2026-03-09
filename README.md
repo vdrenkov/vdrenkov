@@ -1,6 +1,6 @@
 # Valentin Drenkov
 
-Full-Stack Software Engineer | Blockchain Researcher
+Full-Stack Software Engineer | Java, Spring Boot & React | Blockchain Researcher
 
 Software engineer focused on building reliable web applications and scalable systems.  
 Currently working as a full-stack developer while pursuing a PhD in blockchain technologies and cryptocurrency market forecasting at the Technical University of Sofia.
