@@ -15,11 +15,11 @@ API-first cinema management system providing catalog, scheduling, ticketing, ord
 
 Library management REST API for books, clients and borrowing, with role-based access and PostgreSQL persistence.
 
-### [Fast React Pizza](https://github.com/vdrenkov/fast-react-pizza) · [Live app](https://fast-react-pizza-vdrenkov.netlify.app/)
+### [Fast React Pizza](https://github.com/vdrenkov/fast-react-pizza) | [Live app](https://fast-react-pizza-vdrenkov.netlify.app/)
 
 Pizza-ordering application with menu browsing, cart management, checkout and order tracking.
 
-### [WorldWise](https://github.com/vdrenkov/world-wise) · [Live app](https://world-wise-vdrenkov.netlify.app/)
+### [WorldWise](https://github.com/vdrenkov/world-wise) | [Live app](https://world-wise-vdrenkov.netlify.app/)
 
 Interactive travel tracking application that records visited locations on a map.
 
