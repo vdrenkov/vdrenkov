@@ -5,22 +5,24 @@ Full-Stack Software Engineer | Java, Spring Boot, React | Blockchain Researcher
 Software engineer focused on building reliable web applications and scalable systems.  
 Currently working as a full-stack developer while pursuing a PhD in blockchain technologies and cryptocurrency market forecasting at the Technical University of Sofia.
 
-Work spans across full-stack development, from backend services and APIs to modern web applications and data-driven systems used to analyze and experiment with complex domains such as financial markets and distributed technologies.
-
 ---
 
 ## Featured Projects
 
 ### [CineLedger](https://github.com/vdrenkov/cineledger)
+
 API-first cinema management system providing catalog, scheduling, ticketing, ordering, reviews, and reporting capabilities.
 
 ### [Biblium](https://github.com/vdrenkov/biblium)
-Library management REST API with authentication, role-based access control, and database migration management.
 
-### [Fast React Pizza](https://github.com/vdrenkov/fast-react-pizza)
-Single-page food ordering application demonstrating state management and routing in modern React.
+Library management REST API for books, clients and borrowing, with role-based access and PostgreSQL persistence.
 
-### [WorldWise](https://github.com/vdrenkov/world-wise)
+### [Fast React Pizza](https://github.com/vdrenkov/fast-react-pizza) · [Live app](https://fast-react-pizza-vdrenkov.netlify.app/)
+
+Pizza-ordering application with menu browsing, cart management, checkout and order tracking.
+
+### [WorldWise](https://github.com/vdrenkov/world-wise) · [Live app](https://world-wise-vdrenkov.netlify.app/)
+
 Interactive travel tracking application that records visited locations on a map.
 
 ---
@@ -39,15 +41,6 @@ Research areas include:
 - blockchain ecosystem dynamics
 
 The research combines academic work with practical experimentation through custom tooling and market data analysis.
-
----
-
-## Current Focus
-
-- designing and building web applications and APIs
-- improving system architecture and software quality
-- researching advanced methods for cryptocurrency price forecasting
-- developing tools for market analysis and experimentation
 
 ---
 
