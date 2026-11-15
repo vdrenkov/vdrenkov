@@ -5,8 +5,6 @@ Full-Stack Software Engineer | Java & Spring Boot | TypeScript & React | Blockch
 Software engineer focused on building reliable web applications and scalable systems.  
 Currently working as a full-stack developer while pursuing a PhD in blockchain technologies and cryptocurrency market forecasting at the Technical University of Sofia.
 
----
-
 ## Featured Projects
 
 ### [CineLedger](https://github.com/vdrenkov/cineledger)
@@ -25,8 +23,6 @@ Pizza-ordering application with menu browsing, cart management, checkout and ord
 
 Interactive travel tracking application that records visited locations on a map.
 
----
-
 ## Research Work
 
 PhD Research Topic:
@@ -41,8 +37,6 @@ Research areas include:
 - blockchain ecosystem dynamics
 
 The research combines academic work with practical experimentation through custom tooling and market data analysis.
-
----
 
 ## Links
 
